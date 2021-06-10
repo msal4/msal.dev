@@ -5,7 +5,7 @@ type: docs
 
 # Home
 
-Hi, I'm Mohammed Salman. I'm an computer science graduate from [UITC](https://uoitc.edu.iq/), and I'm currently working on my startup. This site is a place to gather information about me, and to post some of my thoughts.
+Hi, I'm Mohammed Salman. I'm a computer science graduate from [UITC](https://uoitc.edu.iq/), and I'm currently working on my startup. This site is a place to gather information about me, and to post some of my thoughts.
 
 ## Current Work
 
