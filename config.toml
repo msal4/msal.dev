@@ -1,0 +1,22 @@
+baseurl = "https://msal.dev/"
+title = "Mohammed Salman"
+theme = "book"
+uglyurls = true
+
+languageCode = "en-gb"
+
+[params]
+BookToC = true
+BookMenuBundle = "/menu"
+
+[deployment]
+order = [".png$", ".jpg$", ".gif$", ".svg$"]
+
+[[deployment.matchers]]
+pattern = "^.+\\.(js|css|png|jpg|gif|svg|ttf)$"
+cacheControl = "max-age=630720000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(html|xml|json)$"
+gzip = true
