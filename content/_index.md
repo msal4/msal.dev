@@ -9,7 +9,7 @@ Hi, I'm Mohammed Salman. I'm a computer science graduate from [UITC](https://uoi
 
 ## Current Work
 
-My final year project at UITC, conducted in collaboration with Coda, involved developing a system
+My final year project at UITC, conducted in collaboration with DDC, involved developing a system
 for managing scientific departments. This project was successful, and since then I branched the system out to incorporate an E-Learning platform to be used by schools all over Iraq and potentially international schools as well.
 
 The current iteration of the system is written in [Go](https://golang.org) -- my language of choice at the
