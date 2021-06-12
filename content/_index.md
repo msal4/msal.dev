@@ -21,6 +21,15 @@ Nowadays, my main interest is in designing systems and writing back-end code. Wh
 in the terminal using `vim`, `tmux` and `zsh` (my dotfiles can be found 
 [here](https://github.com/msal4/dotfiles)). The languages I'm most comfortable in are Go, TypeScript and Dart.
 
+## Side Projects
+
+- Hassah Book: An online boostore that makes it easier to browse and buy physical books since it's harder to obtain original copies of books here in Iraq.
+  Stack: I used TypeScript, Node, GraphQL on the backend and Flutter for building the mobile app as for the admin dashboard I used React to build it.
+- Hassah School: An E-Learning platform aimed for schools to make learning from home much easier.
+  Stack: I used Go to build the backend and Flutter for building the mobile application.
+
+*'Hassah' means 'Now' or 'Just a Sec' in Iraqi Arabic.
+
 ## More Information
 
 You can find more information about me on my [LinkedIn](https://www.linkedin.com/in/4msal/) and my
