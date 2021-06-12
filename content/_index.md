@@ -23,12 +23,15 @@ in the terminal using `vim`, `tmux` and `zsh` (my dotfiles can be found
 
 ## Side Projects
 
-- Hassah Book: An online boostore that makes it easier to browse and buy physical books since it's harder to obtain original copies of books here in Iraq.
-  Stack: I used TypeScript, Node, GraphQL on the backend and Flutter for building the mobile app as for the admin dashboard I used React to build it.
-- Hassah School: An E-Learning platform aimed for schools to make learning from home much easier.
+- Hassah Book: An online boostore that makes it easier to browse and buy physical books since it's hard to obtain original copies of books in Iraq.
+  <br>
+  Stack: I used TypeScript, Node, and GraphQL to build the backend and Flutter to build the mobile app as for the admin dashboard I used React.
+  
+- Hassah School: An E-Learning platform aimed for schools to make learning from home much easier as well as helping with the student-school interactions and making it easy for parents to track their childrens progress.
+  <br>
   Stack: I used Go to build the backend and Flutter for building the mobile application.
 
-*'Hassah' means 'Now' or 'Just a Sec' in Iraqi Arabic.
+*The word 'Hassah' means 'Now' or 'Just a sec' in Iraqi Arabic.*
 
 ## More Information
 
